@@ -3,8 +3,8 @@ package textmail
 import (
   "bytes"
   "fmt"
-  "github.com/moovweb/gokogiri"
-  "github.com/moovweb/gokogiri/xml"
+  "github.com/burriko/gokogiri"
+  "github.com/burriko/gokogiri/xml"
   "strings"
 )
 
